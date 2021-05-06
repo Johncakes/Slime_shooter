@@ -1,2 +1,4 @@
 # Slime_shooter
- Game I made in highSchool
+This is a gmae project I made in highSchool
+
+To open this in unity, download the file and open it with unity hub. Easy
